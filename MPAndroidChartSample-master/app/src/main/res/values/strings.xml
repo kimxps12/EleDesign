@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MPAndroidChartSample</string>
+
+    <string name="app_title">USB Serial Device List</string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="textBtnRTS">RTS - Request To Send</string>
+    <string name="textBtnDTR">DTR - Data Terminal Ready</string>
+    <string name="graph_title">水位[mm]</string>
+</resources>
